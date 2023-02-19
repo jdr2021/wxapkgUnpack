@@ -9,7 +9,8 @@ c#版本的解包
 
 <img src="https://github.com/jdr2021/WxappUnpack/blob/master/2.jpg">
 
-wxappUnpacker
+wxappUnpacker（解包后可导入微信开发者工具）
+
 <img src="https://github.com/jdr2021/WxappUnpack/blob/master/3.jpg">
 
 # 特别声明：
