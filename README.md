@@ -1,6 +1,7 @@
 # WxappUnpack
 wxapkg解密解包工具，提供C#和wxappUnpacker两个版本的解包，并提取JS中的URL和IP。
 
+# 软件截图
 
 # 特别声明：
 ## 1、本人非软件原创作者
