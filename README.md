@@ -11,7 +11,7 @@ wxapkg解密解包工具，提供C#和wxappUnpacker两个版本的解包，并�
   
   ②原解密解包作者链接：https://www.52pojie.cn/thread-1726932-1-1.html
   
-## 2、本人未改变原软件主要功能（解密和解包），仅增加5点小需求：\n
+## 2、本人未改变原软件主要功能（解密和解包），仅增加5点小需求：
 
   ①选择wxapkg文件时自动填充appid，且__APP__.wxapkg文件在 \WeChat Files\Applet\{appid}\xxx\内
   
