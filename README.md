@@ -5,6 +5,12 @@ wxapkg解密解包工具，提供C#和wxappUnpacker两个版本的解包，并�
 
 <img src="https://github.com/jdr2021/WxappUnpack/blob/master/1.jpg">
 
+c#版本的解包
+
+<img src="https://github.com/jdr2021/WxappUnpack/blob/master/2.jpg">
+
+<img src="https://github.com/jdr2021/WxappUnpack/blob/master/3.jpg">
+
 # 特别声明：
 
 ## 1、本人非软件原创作者
@@ -28,6 +34,10 @@ wxapkg解密解包工具，提供C#和wxappUnpacker两个版本的解包，并�
 ## 3、涉及解密、解包类的功能问题，请咨询原作者，本人不懂这块
 
 ## 4、感谢两位原作贡献精神
+
+## 5、感谢该项目的作者
+
+https://github.com/qwerty472123/wxappUnpacker
 
 修改者：KeepOnFighting
 
